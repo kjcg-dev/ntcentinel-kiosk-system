@@ -2,6 +2,7 @@
 
 [![SDG Goal 4: Quality Education](https://img.shields.io/badge/SDG-Goal%204-gold)](https://sdgs.un.org/goals/goal4)
 [![SDG Goal 11: Sustainable Cities and Communities](https://img.shields.io/badge/SDG-Goal%2011-orange)](https://sdgs.un.org/goals/goal11)
+[![System Walkthrough](https://img.shields.io/badge/System%20Walkthrough-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/tv4d97_Tb5I)
 
 ## Project Title & SDG Goal
 **Project Title:** NTCentinel  
